@@ -23,36 +23,41 @@ as a feature extractor for a **Logistic Regression** model in detecting spam ema
 
 | GPT + LR | 0.9758 | 0.9557 | 0.9590 | 0.9574 | 0.9935 |
 
-Confuse matrix without GPT
-
+Confuse matrix without GPT:
 <img width="488" height="349" alt="image" src="https://github.com/user-attachments/assets/1c4c5f5c-c677-4a58-af99-ea38a6e48a44" />
 
-Confuse matrix with GPT
 
+Confuse matrix with GPT:
 <img width="484" height="377" alt="image" src="https://github.com/user-attachments/assets/5daa7252-5df7-4083-aad2-6ed276a8ce39" />
 
-model evaluation metrics without GPT
 
+Model evaluation metrics without GPT:
 <img width="539" height="370" alt="image" src="https://github.com/user-attachments/assets/e1897400-61ed-41bf-8c0f-36e2870ec290" />
 
-model evaluation metrics with GPT
 
+Model evaluation metrics with GPT:
 <img width="521" height="365" alt="image" src="https://github.com/user-attachments/assets/29f6504f-e13f-484a-950a-61d3453c3aea" />
 
+
+ROC Curve without GPT:
+<img width="539" height="342" alt="image" src="https://github.com/user-attachments/assets/f910ac18-3663-4912-8171-4431dcc4af57" />
+
+
+ROC Curve with GPT:
+<img width="526" height="349" alt="image" src="https://github.com/user-attachments/assets/2a570b79-8a68-485e-8777-b52268160797" />
 
 
 
 ## 🚀 How to Run
-```bash
 # Clone repository
-git clone https://github.com/username/spam-email-detection-gpt-logistic
+git clone https://github.com/username/spam-detection-gpt-logistic-regression
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Open notebook
-jupyter notebook notebook/spam_detection_gpt_logistic.ipynb
-```
+Google Collabnotebook notebook/spam_detection_gpt_logistic.ipynb
+
 
 ## 👤 Author
 **Mochamad Revi Alfiansyah** — 152020001
