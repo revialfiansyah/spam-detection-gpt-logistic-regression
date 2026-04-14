@@ -8,13 +8,37 @@ as a feature extractor for a **Logistic Regression** model in detecting spam ema
 
 ## 🎯 Objectives
 - Evaluate GPT embeddings vs. Without GPT
-- Build a Logistic Regression classifier on extracted features
-- Measure accuracy, precision, recall, and F1-score
+- Compare model performance:
+  - Logistic Regression **with GPT features**
+  - Logistic Regression **without feature extraction (baseline)**
+- Measure accuracy, precision, recall, F1-score, and ROC-AUC
+- Analyze performance improvements using standard evaluation metrics
+
+## 🧠 Methodology
+
+### 🔹 1. Data Preprocessing
+- Tokenization
+- Stopword removal
+
+### 🔹 2. Feature Extraction
+- **Baseline**: Raw / simple text features
+- **Proposed Method**: GPT-based embeddings (contextual feature representation)
+
+### 🔹 3. Model
+- Logistic Regression
+
+### 🔹 4. Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
 
 ## 🛠️ Tech Stack
-- **Python** · scikit-learn · Hugging Face Transformers · PyTorch
+- **Python** · scikit-learn · Hugging Face Transformers · PyTorch · Transformers (GPT) ·  Pandas, NumPy
 - **Models:** GPT (feature extraction) + Logistic Regression
 - **Dataset:** spam_ham_dataset
+
 
 ## 📊 Results
 | Method | Accuracy | Precision | Recall |  F1-Score | ROC-AUC |
@@ -46,6 +70,9 @@ ROC Curve without GPT:
 ROC Curve with GPT:
 <img width="526" height="349" alt="image" src="https://github.com/user-attachments/assets/2a570b79-8a68-485e-8777-b52268160797" />
 
+
+📌 Conclusion
+GPT can enhance feature extraction by capturing contextual meaning, leading to improved performance.
 
 
 ## 🚀 How to Run
