@@ -77,7 +77,8 @@ ROC Curve with GPT:
 <img width="526" height="349" alt="image" src="https://github.com/user-attachments/assets/2a570b79-8a68-485e-8777-b52268160797" />
 
 
-📌 Conclusion
+
+## 📌 Conclusion
 GPT can enhance feature extraction by capturing contextual meaning, leading to improved performance.
 
 
