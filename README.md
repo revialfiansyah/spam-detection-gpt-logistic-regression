@@ -84,13 +84,10 @@ GPT can enhance feature extraction by capturing contextual meaning, leading to i
 
 ## 🚀 How to Run
 # Clone repository
-git clone https://github.com/username/spam-detection-gpt-logistic-regression
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/revialfiansyah/spam-detection-gpt-logistic-regression
 
 # Open notebook
-Google Collabnotebook notebook/spam_detection_gpt_logistic.ipynb
+Google Collab: /LOGISTIK_REGRESI.ipynb
 
 
 ## 👤 Author
