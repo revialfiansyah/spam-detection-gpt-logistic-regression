@@ -27,6 +27,20 @@ Confuse matrix without GPT
 
 <img width="488" height="349" alt="image" src="https://github.com/user-attachments/assets/1c4c5f5c-c677-4a58-af99-ea38a6e48a44" />
 
+Confuse matrix with GPT
+
+<img width="484" height="377" alt="image" src="https://github.com/user-attachments/assets/5daa7252-5df7-4083-aad2-6ed276a8ce39" />
+
+model evaluation metrics without GPT
+
+<img width="539" height="370" alt="image" src="https://github.com/user-attachments/assets/e1897400-61ed-41bf-8c0f-36e2870ec290" />
+
+model evaluation metrics with GPT
+
+<img width="521" height="365" alt="image" src="https://github.com/user-attachments/assets/29f6504f-e13f-484a-950a-61d3453c3aea" />
+
+
+
 
 ## 🚀 How to Run
 ```bash
