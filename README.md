@@ -18,8 +18,10 @@ as a feature extractor for a **Logistic Regression** model in detecting spam ema
 
 ## 📊 Results
 | Method | Accuracy | Precision | Recall |  F1-Score | ROC-AUC |
+
 | Without GPT + LR | 0.7227 | 0.7142 | 0.3412 | 0.6514 | 0.5365 |
-| GPT + LR | xx% | xx% |
+
+| GPT + LR | 0.9758 | 0.9557 | 0.9590 | 0.9574 | 0.9935 |
 
 Confuse matrix without GPT
 
