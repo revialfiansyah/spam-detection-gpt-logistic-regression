@@ -51,10 +51,20 @@ Confuse matrix without GPT:
 
 <img width="488" height="349" alt="image" src="https://github.com/user-attachments/assets/1c4c5f5c-c677-4a58-af99-ea38a6e48a44" />
 
+True Negatives (Ham correctly classified): 738
+False Positives (Ham misclassified as Spam): 4
+False Negatives (Spam misclassified as Ham): 283
+True Positives (Spam correctly classified): 10
+
 
 Confuse matrix with GPT:
 
 <img width="484" height="377" alt="image" src="https://github.com/user-attachments/assets/5daa7252-5df7-4083-aad2-6ed276a8ce39" />
+
+True Negatives (Ham correctly classified): 729
+False Positives (Ham misclassified as Spam): 13
+False Negatives (Spam misclassified as Ham): 12
+True Positives (Spam correctly classified): 281
 
 
 Model evaluation metrics without GPT:
