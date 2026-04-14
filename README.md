@@ -1,4 +1,3 @@
-<img width="488" height="349" alt="image" src="https://github.com/user-attachments/assets/2ca32034-3beb-415b-af7c-2ddc2d0620b9" /># spam-detection-gpt-logistic-regression
 Final project: Spam email detection using GPT feature extraction and Logistic Regression
 
 # 🛡️ Spam Email Detection using GPT Feature Extraction + Logistic Regression
@@ -23,6 +22,7 @@ as a feature extractor for a **Logistic Regression** model in detecting spam ema
 | GPT + LR | xx% | xx% |
 
 Confuse matrix without GPT
+
 <img width="488" height="349" alt="image" src="https://github.com/user-attachments/assets/1c4c5f5c-c677-4a58-af99-ea38a6e48a44" />
 
 
